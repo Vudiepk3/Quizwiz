@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10478584953",
+    "project_id": "quizwiz-6db33",
+    "storage_bucket": "quizwiz-6db33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10478584953:android:b183c1b694eaf6a67e40a8",
+        "android_client_info": {
+          "package_name": "com.example.quizwiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10478584953-kf60gb06845r5k122chq15k6r1o3ph58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvl9DfrUPGZmrdU9ftuB52l4ZfaIgxIxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10478584953-kf60gb06845r5k122chq15k6r1o3ph58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
